@@ -142,7 +142,7 @@ Todos são **bem-vindos** — seja você iniciante ou avançado!
 
 ---
 
-## 🚀 Vamos juntos construir, aprender e evoluir.
+##  Vamos juntos construir, aprender e evoluir.
 
 > “Aprender é construir. Construir é compartilhar. Compartilhar é evoluir.”
 
