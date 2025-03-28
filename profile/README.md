@@ -1,11 +1,10 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/b4ea17c8-12f9-44eb-8087-b1f34edc0310" alt="DotNetVanguard Logo" width="190">
+  <img src="https://github.com/user-attachments/assets/1dcb2f51-d723-4c2d-adc6-dc9ee0ad1198" alt="DotNetVanguard Logo" width="190">
   <br>
   DotNetVanguard
   <br>
-</h1>
-
+</h1> 
  
 <h4 align="center"> 
 Organização oficial do grupo DotNetVanguard — Pós-graduação FIAP em Arquitetura de Software .NET com Azure.
