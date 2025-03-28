@@ -7,8 +7,7 @@
 </h1>
 
  
-<h4 align="center">![image-removebg-preview (1)](https://github.com/user-attachments/assets/b4ea17c8-12f9-44eb-8087-b1f34edc0310)
-
+<h4 align="center"> 
 Organização oficial do grupo DotNetVanguard — Pós-graduação FIAP em Arquitetura de Software .NET com Azure.
 </h4>
 
@@ -34,7 +33,7 @@ A **DotNetVanguard** é uma organização colaborativa criada por alunos da pós
 
 ## 🛠 Tecnologias
 
-- .NET 6 / 7 / 8
+- .NET 8
 - C# 12
 - ASP.NET Core
 - Blazor
