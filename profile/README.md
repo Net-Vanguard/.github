@@ -12,10 +12,10 @@ Organização oficial do grupo DotNetVanguard — Pós-graduação FIAP - Arquit
 </h4>
 
 <p align="center">
-  <a href="#objetivo">🎯 Objetivo</a> •
-  <a href="#tecnologias">🛠 Tecnologias</a> •
-  <a href="#como-participar">🤝 Como Participar</a> •
-  <a href="#conteúdos-técnicos-por-fase">📚 Conteúdos por Fase</a>
+  <a href="#-objetivo">🎯 Objetivo</a> •
+  <a href="#-tecnologias">🛠 Tecnologias</a> •
+  <a href="#-como-participar">🤝 Como Participar</a> •
+  <a href="#-conteúdos-técnicos-por-fase">📚 Conteúdos por Fase</a>
 </p>
 
 ---
@@ -142,8 +142,6 @@ Todos são **bem-vindos** — seja você iniciante ou avançado!
 - Desenvolvimento seguro com foco em privacidade
 
 ---
-
-##  Vamos juntos construir, aprender e evoluir.
 
 > “Aprender é construir. Construir é compartilhar. Compartilhar é evoluir.”
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=120&section=footer"/>
