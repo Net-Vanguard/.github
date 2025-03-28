@@ -1,21 +1,21 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/b4ea17c8-12f9-44eb-8087-b1f34edc0310" alt="DotNetVanguard Logo" width="190">
+  <img src="https://github.com/user-attachments/assets/1dcb2f51-d723-4c2d-adc6-dc9ee0ad1198" alt="DotNetVanguard Logo" width="190">
   <br>
   DotNetVanguard
   <br>
-</h1>
-
+  <img src="https://komarev.com/ghpvc/?username=Net-Vanguard&color=0E9C47&style=for-the-badge">
+</h1> 
  
 <h4 align="center"> 
-Organização oficial do grupo DotNetVanguard — Pós-graduação FIAP em Arquitetura de Software .NET com Azure.
+Organização oficial do grupo DotNetVanguard — Pós-graduação FIAP - Arquitetura de Software .NET com Azure.
 </h4>
 
 <p align="center">
-  <a href="#objetivo">🎯 Objetivo</a> •
-  <a href="#tecnologias">🛠 Tecnologias</a> •
-  <a href="#como-participar">🤝 Como Participar</a> •
-  <a href="#conteúdos-técnicos-por-fase">📚 Conteúdos por Fase</a>
+  <a href="#-objetivo">🎯 Objetivo</a> •
+  <a href="#-tecnologias">🛠 Tecnologias</a> •
+  <a href="#-como-participar">🤝 Como Participar</a> •
+  <a href="#-conteúdos-técnicos-por-fase">📚 Conteúdos por Fase</a>
 </p>
 
 ---
@@ -24,8 +24,8 @@ Organização oficial do grupo DotNetVanguard — Pós-graduação FIAP em Arqui
 
 A **DotNetVanguard** é uma organização colaborativa criada por alunos da pós-graduação da FIAP com o objetivo de:
 
-- Construir projetos reais com base em arquitetura moderna .NET e Azure
-- Promover aprendizado colaborativo e troca de conhecimento
+- Construir projetos reais com base em arquitetura **.NET** e **Azure**
+- Promover aprendizado **colaborativo** e **troca de conhecimento**
 - Experimentar tecnologias emergentes com foco em boas práticas
 - Documentar nossa jornada de aprendizado e inspirar outros devs
 
@@ -143,7 +143,5 @@ Todos são **bem-vindos** — seja você iniciante ou avançado!
 
 ---
 
-## 🚀 Vamos juntos construir, aprender e evoluir.
-
 > “Aprender é construir. Construir é compartilhar. Compartilhar é evoluir.”
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=120&section=footer"/>
