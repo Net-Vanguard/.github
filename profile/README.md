@@ -1,5 +1,5 @@
 <details>
-<summary>ENGLISH VERSION</summary>
+<summary>English version 🇺🇸</summary>
 
 <h1 align="center">
   <br>
