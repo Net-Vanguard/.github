@@ -11,7 +11,7 @@
 </h1> 
  
 <h4 align="center"> 
-Official organization of the DotNetVanguard group — FIAP Postgraduate Program in .NET Software Architecture with Azure.
+Official organization of the DotNetVanguard group — [FIAP](https://www.fiap.com.br/) Postgraduate Program in .NET Software Architecture with Azure.
 </h4>
 
 <p align="center">
@@ -161,7 +161,7 @@ Everyone is **welcome** — whether you're a beginner or advanced!
 </h1> 
  
 <h4 align="center"> 
-Organização oficial do grupo DotNetVanguard — Pós-graduação FIAP - Arquitetura de Software .NET com Azure.
+Organização oficial do grupo DotNetVanguard — Pós-graduação [FIAP](https://www.fiap.com.br/) - Arquitetura de Software .NET com Azure.
 </h4>
 
 <p align="center">
