@@ -44,7 +44,7 @@ Official organization of the DotNetVanguard group — <a href="https://www.fiap.
 - Entity Framework Core  
 - Dapper  
 - PostgreSQL  
-- MongoDB  
+- MongoDB    
 - Azure App Services / Azure Functions / Azure AKS / Cosmos DB / Key Vault  
 - Docker  
 - Kubernetes  
@@ -54,11 +54,11 @@ Official organization of the DotNetVanguard group — <a href="https://www.fiap.
 - Elasticsearch  
 - Swagger / OpenAPI  
 - RabbitMQ / MassTransit / Azure Service Bus  
-- xUnit / MSTest / NUnit  
+- xUnit / MSTest / NUnit
 - OAuth2 / JWT  
 - Kong / API Management  
 - Zabbix / Prometheus / Grafana
-
+- SOLID 
 ---
 
 ## 🤝 How to Contribute
@@ -205,10 +205,12 @@ A **DotNetVanguard** é uma organização colaborativa criada por alunos da pós
 - Swagger / OpenAPI
 - RabbitMQ / MassTransit / Azure Service Bus
 - xUnit / MSTest / NUnit
+- Cobertura de código
+  [![Notion](https://img.shields.io/badge/Notion-Cobertura%20de%20Codigo-000000?style=for-the-badge&logo=notion)](https://fuschia-runner-0d2.notion.site/Coverlet-908123a329b3492caedf9d80406aee3b)
 - OAuth2 / JWT
 - Kong / API Management
 - Zabbix / Prometheus / Grafana
-
+- SOLID
 ---
 
 ## 🤝 Como Participar
