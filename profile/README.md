@@ -1,5 +1,7 @@
 <details>
 <summary>English version 🇺🇸</summary>
+  
+Assita a playlist que resume o conteúdo: https://www.youtube.com/watch?v=ojWairzvS6s&list=PLKrOUB-wfsdBNjxiaOOvjjyDtfcxcIbqG
 
 <h1 align="center">
   <br>
