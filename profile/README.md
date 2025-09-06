@@ -1,7 +1,8 @@
 <details>
 <summary>English version 🇺🇸</summary>
   
-Assita a playlist que resume o conteúdo: https://www.youtube.com/watch?v=ojWairzvS6s&list=PLKrOUB-wfsdBNjxiaOOvjjyDtfcxcIbqG
+[![Watch the playlist that summarizes all the content](https://img.shields.io/badge/▶️%20Watch-Playlist-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ojWairzvS6s&list=PLKrOUB-wfsdBNjxiaOOvjjyDtfcxcIbqG)
+
 
 <h1 align="center">
   <br>
@@ -153,6 +154,8 @@ Everyone is **welcome** — whether you're a beginner or advanced!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=120&section=footer"/>
 
 </details>
+
+[![Assita a playlist que resume o conteúdo](https://img.shields.io/badge/▶️%20Veja-Playlist-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ojWairzvS6s&list=PLKrOUB-wfsdBNjxiaOOvjjyDtfcxcIbqG)
 
 <h1 align="center">
   <br>
